@@ -6,3 +6,6 @@ name = "Ashish Baranwal"
 
 def my_name():
     print("My name is :", name)
+
+def isabove18(age):
+    return age > 18
